@@ -1,0 +1,49 @@
+NUM:dist How far is it from Denver to Aspen ?
+LOC:city What county is Modesto , California in ?
+HUM:desc Who was Galileo ?
+DESC:def What is an atom ?
+NUM:date When did Hawaii become a state ?
+NUM:dist How tall is the Sears Building ?
+HUM:gr George Bush purchased a small interest in which baseball team ?
+ENTY:plant What is Australia 's national flower ?
+DESC:reason Why does the moon turn orange ?
+DESC:def What is autism ?
+LOC:city What city had a world fair in 1900 ?
+HUM:ind What person 's head is on a dime ?
+NUM:weight What is the average weight of a Yellow Labrador ?
+HUM:ind Who was the first man to fly across the Pacific Ocean ?
+NUM:date When did Idaho become a state ?
+NUM:other What is the life expectancy for crickets ?
+ENTY:substance What metal has the highest melting point ?
+HUM:ind Who developed the vaccination against polio ?
+DESC:def What is epilepsy ?
+NUM:date What year did the Titanic sink ?
+HUM:ind Who was the first American to walk in space ?
+DESC:def What is a biosphere ?
+LOC:other What river in the US is known as the Big Muddy ?
+DESC:def What is bipolar disorder ?
+DESC:def What is cholesterol ?
+HUM:ind Who developed the Macintosh computer ?
+DESC:def What is caffeine ?
+LOC:other What imaginary line is halfway between the North and South Poles ?
+LOC:other Where is John Wayne airport ?
+LOC:other What hemisphere is the Philippines in ?
+NUM:speed What is the average speed of the horses at the Kentucky Derby ?
+LOC:mount Where are the Rocky Mountains ?
+DESC:def What are invertebrates ?
+NUM:temp What is the temperature at the center of the earth ?
+NUM:date When did John F. Kennedy get elected as President ?
+NUM:period How old was Elvis Presley when he died ?
+LOC:other Where is the Orinoco River ?
+NUM:dist How far is the service line from the net in tennis ?
+NUM:count How much fiber should you have per day ?
+NUM:count How many Great Lakes are there ?
+ENTY:plant Material called linen is made from what plant ?
+DESC:def What is Teflon ?
+DESC:def What is amitriptyline ?
+DESC:def What is a shaman ?
+ENTY:animal What is the proper name for a female walrus ?
+ENTY:animal What is a group of turkeys called ?
+NUM:period How long did Rip Van Winkle sleep ?
+DESC:def What are triglycerides ?
+NUM:count How many liters in
